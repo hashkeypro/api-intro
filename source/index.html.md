@@ -85,9 +85,9 @@ Currently, the defined maintenance window period is from 2:00 PM to 3:00 PM (UTC
 目前，HashKey Pro常规的维护窗口为每周一、三、五的2:00PM~ 3:00PM（UTC+8）。在这段期间内，我们可能进行版本同步、账户充值等维护工作，这将可能对您在测试环境访问业务的连续性受影响。
 
 ### 5.2. Access to the Staging Environment<br \>&emsp;^联调测试接入
-You can access the staging environment through the domain [api-test.pro.hashkey.com](api-test.pro.hashkey.com). Please refer to the email with your account name and initial password.
+You can access the staging environment through the domain [api-test.pro.hashkey.com](https://api-test.pro.hashkey.com). Please refer to the email with your account name and initial password.
 
-If your host is unable to easily resolve the domain name, you can bind [api-test.pro.hashkey.com](api-test.pro.hashkey.com) with
+If your host is unable to easily resolve the domain name, you can bind [api-test.pro.hashkey.com](https://api-test.pro.hashkey.com) with
 45.249.244.103 by setting the hosts, then you can proceed to access the request. Before the test, the following prerequisites are necessary:
 
 1. You need to bind your 2FA verification in the staging environment.
@@ -95,9 +95,9 @@ If your host is unable to easily resolve the domain name, you can bind [api-test
 * Public-Private Mode: This authentication method is based on asymmetric encryption (ECDSA, to be more specific). In this case, the public-private key pair is generated in the user’s browser. The private key is stored locally. Only the public key is uploaded to the server. Therefore, no one but the user has the private key.
 * Message Authentication Code Mode: This authentication method is based on symmetric encryption (HMAC-SHA256, to be more specific). In this case, a secret key is generated in the server and a copy of the key is sent to the user to keep. If you do not want that the secret key is held by the exchange as well, you should choose to use the public-private key pair method.
 
-您可以通过前述的用户名和初始密码[api-test.pro.hashkey.com](api-test.pro.hashkey.com)这一站点来登录测试联调环境。
+您可以通过前述的用户名和初始密码[api-test.pro.hashkey.com](https://api-test.pro.hashkey.com)这一站点来登录测试联调环境。
 
-如果您的主机无法进行域名解析，您可以通过hosts设置来绑定[api-test.pro.hashkey.com](api-test.pro.hashkey.com)与45.249.244.103，然后再进行访问请求。在开始测试前，还需要完成以下前置条件：
+如果您的主机无法进行域名解析，您可以通过hosts设置来绑定[api-test.pro.hashkey.com](https://api-test.pro.hashkey.com)与45.249.244.103，然后再进行访问请求。在开始测试前，还需要完成以下前置条件：
 
 （1）您需要在测试联调环境绑定2FA验证方式；
 
@@ -131,7 +131,7 @@ If you encounter any issues or for any suggestions during the test, you are welc
 
 All issues or malfunctions that impact the implementation of your test will be responded within 24 hours to facilitate solution.
 
-在测试过程中有任何问题和建议，都欢迎您发送邮件到support@pro.hashkey.com与我们取得联系，我们将仔细阅读您的来信。
+在测试过程中有任何问题和建议，都欢迎您发送邮件到 support@pro.hashkey.com 与我们取得联系，我们将仔细阅读您的来信。
 
 对于影响您持续开展测试工作的故障问题，我们会在24小时内作出回复，并为您提供解决方案。
 
