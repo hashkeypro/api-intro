@@ -136,10 +136,10 @@ All issues or malfunctions that impact the implementation of your test will be r
 对于影响您持续开展测试工作的故障问题，我们会在24小时内作出回复，并为您提供解决方案。
 
 ## 6. Interface Access Eligibility<br \>&emsp;^获取接入资格
-After one week of testing, once both you and our side conclude that your account is ready, we will notify you through email that you are qualified and approved for the actual production environment interface and wait for your next transactions.
+After one day of testing, once both you and our side conclude that your account is ready, we will notify you through email that you are qualified and approved for the actual production environment interface and wait for your next transactions.
 
 Finally, thank you for choosing HashKey Pro!
 
-一周的联调测试后，当您和我们都认可调试就绪后，我们会通过邮件通知您通过生产环境的申请，也期待您后续使用我们的服务。
+一天的联调测试后，当您和我们都认可调试就绪后，我们会通过邮件通知您通过生产环境的申请，也期待您后续使用我们的服务。
 
 最后，感谢您选择HashKey Pro！
